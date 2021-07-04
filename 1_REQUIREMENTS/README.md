@@ -111,7 +111,7 @@ factory inspectors, among many other possibilities.
 
 # *** SWOT ANALYSIS***
 
-![image](https://github.com/AshwinG21/Python_L-T_project/blob/05bac8a36fe5a048fe554f23a3cf8e9f6e280e07/1_REQUIREMENTS/SWOT.pdf)
+![image](1_REQUIREMENTS/SWOT.pdf)
 
 
 # ***LOW LEVEL REQUIREMENTS***
