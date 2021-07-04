@@ -123,7 +123,10 @@ In United States of America
 In 1958
 
 ## WHAT ##
-Developed a telepresence—called Handiman—that had good dexterity and compensation. It had only two fingers, but those fingers each had three joints so that they could wrap around any object.
+Developed a telepresence—called Handiman—that had good dexterity and compensation. 
+
+## HOW ##
+It had only two fingers, but those fingers each had three joints so that they could wrap around any object.
 
 
 
