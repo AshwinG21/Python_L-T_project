@@ -116,3 +116,9 @@ The low level requirement includes knowledge about arduino uno, bluetooth module
 
 ![image](https://circuitdigest.com/sites/default/files/inlineimages/block%20diagram_1.PNG)
 
+# ***HIGH LEVEL REQUIREMENTS***
+
+The high level requirement includes idea about raspberry pi and servo motor interface.
+
+![image](http://dwightreid.com/blog/wp-content/uploads/2015/03/Pan-tilt.jpg)
+
