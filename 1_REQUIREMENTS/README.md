@@ -109,8 +109,7 @@ factory inspectors, among many other possibilities.
 7. Dual screen app
 8. Bluetooth electronics app
 
-# *** SWOT ANALYSIS ***
-![image](https://github.com/AshwinG21/Python_L-T_project/blob/5b420d46ffab9efcfb0a98cbb96864826430ec1b/1_REQUIREMENTS/SWOT.jpg)
+
 
 # ***4W AND 1H***
 
