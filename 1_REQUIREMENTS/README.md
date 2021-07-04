@@ -80,3 +80,28 @@ example, a telepresence robot can move around the room and interact face-to-face
 individual students, just as an onpremises instructor might. Telepresence robots can
 enable remote tour guides, administrative assistants, home visitors, night watchmen and
 factory inspectors, among many other possibilities.
+
+# ***COMPONENTS REQUIRED***
+
+## Hardware Requirements ##
+
+1. Raspberry pi
+2. Arduino uno
+3. L293D Motor driver
+4. Geared motors
+5. Servo motors
+6. Power source
+7. VR Headset
+8. Rpi Camera
+9. Robot chasis
+10. Resistors
+11. Capacitors
+12. Ethernet cable and HDMI cable
+
+## Software Requirements ##
+
+
+
+# ***LOW LEVEL REQUIREMENTS***
+The low level requirement includes knowledge about arduino uno, bluetooth module and motor driver working as a robot car.
+
