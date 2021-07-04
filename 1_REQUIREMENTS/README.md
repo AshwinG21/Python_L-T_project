@@ -111,6 +111,7 @@ factory inspectors, among many other possibilities.
 
 
 
+
 # ***LOW LEVEL REQUIREMENTS***
 The low level requirement includes knowledge about arduino uno, bluetooth module and motor driver working as a robot car.
 
