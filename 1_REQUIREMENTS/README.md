@@ -100,6 +100,15 @@ factory inspectors, among many other possibilities.
 
 ## Software Requirements ##
 
+1. Raspbian OS
+2. Apache web server
+3. Python
+4. PHP
+5. Wireless IMU app
+6. Arduino IDE
+7. Dual screen app
+8. Bluetooth electronics app
+
 
 
 # ***LOW LEVEL REQUIREMENTS***
