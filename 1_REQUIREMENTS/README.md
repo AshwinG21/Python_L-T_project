@@ -109,9 +109,23 @@ factory inspectors, among many other possibilities.
 7. Dual screen app
 8. Bluetooth electronics app
 
-https://github.com/AshwinG21/Python_L-T_project/blob/5b420d46ffab9efcfb0a98cbb96864826430ec1b/1_REQUIREMENTS/SWOT.pdf
+# *** SWOT ANALYSIS ***
+https://github.com/AshwinG21/Python_L-T_project/blob/5b420d46ffab9efcfb0a98cbb96864826430ec1b/1_REQUIREMENTS/SWOT.jpg
 
 # ***4W AND 1H***
+
+## WHO ##
+Ralph Mosher
+
+## WHERE ##
+In United States of America
+  
+## WHEN ##
+In 1958
+
+## WHAT ##
+Developed a telepresence—called Handiman—that had good dexterity and compensation. It had only two fingers, but those fingers each had three joints so that they could wrap around any object.
+
 
 
 
