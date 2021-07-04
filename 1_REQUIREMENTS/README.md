@@ -109,9 +109,9 @@ factory inspectors, among many other possibilities.
 7. Dual screen app
 8. Bluetooth electronics app
 
-# *** SWOT ANALYSIS***
+# ***4W AND 1H***
 
-![image](blob:https://web.whatsapp.com/0c1afba6-e0d6-490c-979c-8e2903dbc70a)
+
 
 
 # ***LOW LEVEL REQUIREMENTS***
