@@ -111,7 +111,7 @@ factory inspectors, among many other possibilities.
 
 # *** SWOT ANALYSIS***
 
-![image](1_REQUIREMENTS/SWOT.pdf)
+![image](blob:https://web.whatsapp.com/0c1afba6-e0d6-490c-979c-8e2903dbc70a)
 
 
 # ***LOW LEVEL REQUIREMENTS***
