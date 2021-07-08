@@ -2,6 +2,7 @@ import pytest
 def calculate(x,y):
     return ((1023 * x )/ y)
 
+## this takes sample input output
 
 def test_method():
     assert calculate(1,20) == 51.15
